@@ -27,9 +27,11 @@ export default {
 <style scoped lang="scss">
  .header {
   display: flex;
+  justify-content: space-around;
  }
  ul {
   display: flex;
+  justify-content: space-around;
  }
  li {
   list-style: none;
