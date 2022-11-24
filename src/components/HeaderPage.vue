@@ -24,6 +24,15 @@ export default {
 };
 </script>
 
-<style>
-
+<style scoped lang="scss">
+ .header {
+  display: flex;
+ }
+ ul {
+  display: flex;
+ }
+ li {
+  list-style: none;
+  padding: 5px;
+ }
 </style>

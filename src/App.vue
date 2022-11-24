@@ -1,6 +1,7 @@
 <template>
-  <div>
+  <div class="container">
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
+    <HeaderPage></HeaderPage>
   </div>
 </template>
 
