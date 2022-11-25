@@ -36,6 +36,9 @@ export default {
   }
   h3 {
     color: blue;
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
   }
   .bottone {
     color: white;

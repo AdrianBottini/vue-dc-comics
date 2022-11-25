@@ -24,6 +24,7 @@
 </template>
 
 <script>
+
 export default {
   name: 'MainPage',
 };
@@ -33,7 +34,6 @@ export default {
   .main{
     background-color: rgb(12,124,236);
     padding: 50px;
-    margin-top: -22px;
     display: flex;
     justify-content: space-around;
   }

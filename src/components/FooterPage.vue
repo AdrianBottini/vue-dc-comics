@@ -9,7 +9,7 @@
       <p>Games</p>
       <p>Videos</p>
       <p>News</p>
-      <h2>SHOP</h2>
+      <h2 class="shop">SHOP</h2>
       <p>Shop DC</p>
       <p>Shop DC Collectibles</p>
     </div>
@@ -45,10 +45,23 @@ export default {
 
 <style scoped lang="scss">
   .container-footer {
-    /* background-image: url('img/footer-bg.png'); */
+    background-image: url("../../public/img/footer-bg.jpg");
+    background-size: cover;
     display: flex;
+
   }
   .footer {
-    padding: 10px;
+    padding: 30px;
+    margin-top: 10px;
+    color: grey;
+  }
+  .shop {
+    margin-top: 20px;
+  }
+  p{
+    padding: 5px;
+  }
+  h2 {
+    color: white;
   }
 </style>
