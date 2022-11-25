@@ -43,7 +43,7 @@ export default {
   padding: 20px;
  }
  .black {
-  padding: 50px;
+  padding: 30px;
   color: white;
   margin-left: 100px;
  }

@@ -29,7 +29,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped lang="scss">
   .main{
     background-color: rgb(12,124,236);
     padding: 50px;

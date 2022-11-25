@@ -43,11 +43,10 @@ export default {
 };
 </script>
 
-<style>
+<style scoped lang="scss">
   .container-footer {
     /* background-image: url('img/footer-bg.png'); */
     display: flex;
-    padding: 20px;
   }
   .footer {
     padding: 10px;

@@ -21,7 +21,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped lang="scss">
   .footer-2{
     display: flex;
     justify-content: space-between;
